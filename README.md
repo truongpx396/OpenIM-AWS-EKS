@@ -1,9 +1,9 @@
 
 <h3 align="center" style="border-bottom: none">
-    ⭐️  OpenIM Deployment On AWS EKS ⭐️ <br>
+    ✨ 🔮 OpenIM Deployment On AWS EKS 🔮 ✨ <br>
 <h3>
 
-## 🚀 Project Repositories
+## 🐙 Project Repositories
 
 - [OpenIM Terraform Infrastructure Repo](https://github.com/truongpx396/OpenIM-Terraform-Infrastructure)
 
@@ -12,7 +12,7 @@
 
 
 <h3 align="center" style="border-bottom: none">
-    🚢  Below is the result of the deployment 🚢 <br>
+    🚢 ✨ Below is the result of the deployment ✨ 🚢 <br>
 <h3>
 
 ## ☁️ Aws
