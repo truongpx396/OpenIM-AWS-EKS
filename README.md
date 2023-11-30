@@ -11,9 +11,13 @@
 - [OpenIM K8S Deployment Repo](https://github.com/truongpx396/OpenIM-K8S-Deployment)
 
 
-## 🚀 About OpenIMSDK
+## 🚀 Below is result of the deployment.
 ## 🚀 Aws
 ![Aws](./assets/aws/aws-1.png)
+
+![Aws](./assets/aws/aws-3.png)
+
+![Aws](./assets/aws/aws-4.png)
 
 ![Aws](./assets/aws/aws-2.png)
 ## Jenkins
@@ -43,8 +47,70 @@ OpenIm Data Viewers
 
 ## 🚀 Prometheus
 
-https://argocd.k8s.magiclab396.com/
+https://prometheus.k8s.magiclab396.com/
 
 ![Prometheus](./assets/prometheus/prometheus-1.png)
+
 ![Prometheus](./assets/prometheus/prometheus-2.png)
+
 ![Prometheus](./assets/prometheus/prometheus-3.png)
+ 
+## 🚀 Grafana
+
+https://grafana.k8s.magiclab396.com/
+
+#### System Overview
+
+![Gafana](./assets/grafana/grafana-overview-0.png)
+
+![Gafana](./assets/grafana/grafana-overview-1.png)
+
+![Gafana](./assets/grafana/grafana-overview-2.png)
+
+![Gafana](./assets/grafana/grafana-overview-3.png)
+
+#### Argocd
+
+![Gafana](./assets/grafana/grafana-argocd-cpu.png)
+
+![Gafana](./assets/grafana/grafana-argocd-memory.png)
+
+
+#### Istio
+
+![Gafana](./assets/grafana/grafana-istio-cpu.png)
+
+![Gafana](./assets/grafana/grafana-istio-memory.png)
+
+#### Kube prometheus
+
+![Gafana](./assets/grafana/grafana-kube-prometheus-cpu.png)
+
+![Gafana](./assets/grafana/grafana-kube-prometheus-memory.png)
+
+#### OpenIM Main
+
+![Gafana](./assets/grafana/grafana-openim-main-cpu.png)
+
+![Gafana](./assets/grafana/grafana-openim-main-memory.png)
+
+#### OpenIM Admin Management
+
+![Gafana](./assets/grafana/grafana-openim-main-cpu.png)
+
+![Gafana](./assets/grafana/grafana-openim-main-memory.png)
+
+#### OpenIM Dependencies
+
+![Gafana](./assets/grafana/grafana-openimdep-cpu.png)
+
+![Gafana](./assets/grafana/grafana-openimdep-memory.png)
+
+#### OpenIM Data Viewer
+
+![Gafana](./assets/grafana/grafana-openim-dataviewer-cpu.png)
+
+![Gafana](./assets/grafana/grafana-openim-dataviewer-memory.png)
+
+
+
