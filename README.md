@@ -11,7 +11,10 @@
 - [OpenIM K8S Deployment Repo](https://github.com/truongpx396/OpenIM-K8S-Deployment)
 
 
-## 🚀 Below is result of the deployment.
+<h3 align="center" style="border-bottom: none">
+    ⭐️  Below is result of the deployment ⭐️ <br>
+<h3>
+
 ## 🚀 Aws
 ![Aws](./assets/aws/aws-1.png)
 
