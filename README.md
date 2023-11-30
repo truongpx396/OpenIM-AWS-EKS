@@ -1,15 +1,14 @@
-# OpenIM-k8s-aws
-OpenIM deployed on aws eks
 
 <h3 align="center" style="border-bottom: none">
     ⭐️  OpenIM Deployment On AWS EKS ⭐️ <br>
 <h3>
 
-## 🚀 Aws
+## 🚀 Project Repositories
 
-OpenIM AWS Infrastructure Repo: 
-OpenIM Repo: https://github.com/truongpx396/Open-IM-Server
-OpenIM K8s Deployment Repo: 
+- [OpenIM Terraform Infrastructure Repo](https://github.com/truongpx396/OpenIM-Terraform-Infrastructure)
+
+- [OpenIM Repo](https://github.com/truongpx396/Open-IM-Server)
+- [OpenIM K8S Deployment Repo](https://github.com/truongpx396/OpenIM-K8S-Deployment)
 
 
 ## 🚀 About OpenIMSDK
