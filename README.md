@@ -12,10 +12,10 @@
 
 
 <h3 align="center" style="border-bottom: none">
-    ⭐️  Below is result of the deployment ⭐️ <br>
+    🚢  Below is the result of the deployment 🚢 <br>
 <h3>
 
-## 🚀 Aws
+## ☁️ Aws
 ![Aws](./assets/aws/aws-1.png)
 
 ![Aws](./assets/aws/aws-3.png)
@@ -23,15 +23,16 @@
 ![Aws](./assets/aws/aws-4.png)
 
 ![Aws](./assets/aws/aws-2.png)
-## Jenkins
+## 👷‍♂️ Jenkins
 
 ![Jenkins](./assets/jenkins/jenkins-1.png)
 ![Jenkins](./assets/jenkins/jenkins-2.png)
-## Docker Hub
+
+## 📦 Docker Hub
 https://hub.docker.com/repositories/truongpx396
 ![Docker Hub](./assets/docker/docker-1.png)
 
-## 🚀 Argocd
+## 🦑 Argocd
 https://argocd.k8s.magiclab396.com/
 
 ![Argocd Apps](./assets/argocd/argocd-apps.png)
@@ -48,7 +49,7 @@ OpenIm Data Viewers
 
 ![Argocd Apps](./assets/argocd/argocd-app-data-viewers.png)
 
-## 🚀 Prometheus
+## 🔥 Prometheus
 
 https://prometheus.k8s.magiclab396.com/
 
@@ -58,7 +59,7 @@ https://prometheus.k8s.magiclab396.com/
 
 ![Prometheus](./assets/prometheus/prometheus-3.png)
  
-## 🚀 Grafana
+## 🔍 Grafana
 
 https://grafana.k8s.magiclab396.com/
 
