@@ -9,6 +9,7 @@
 
 - [OpenIM Repo](https://github.com/truongpx396/Open-IM-Server)
 - [OpenIM K8S Deployment Repo](https://github.com/truongpx396/OpenIM-K8S-Deployment)
+- [OpenIM Mobile App Repo](https://github.com/truongpx396/OpenIM-Flutter)
 
 
 <h3 align="center" style="border-bottom: none">
@@ -48,6 +49,10 @@ OpenIm Dependencies
 OpenIm Data Viewers
 
 ![Argocd Apps](./assets/argocd/argocd-app-data-viewers.png)
+
+## 🕸️ Istio Kiali
+
+![Kiali](./assets/istio/kiali-1.png)
 
 ## 🔥 Prometheus
 
@@ -116,5 +121,9 @@ https://grafana.k8s.magiclab396.com/
 
 ![Gafana](./assets/grafana/grafana-openim-dataviewer-memory.png)
 
+## 📱 Mobile App 
 
-
+<p align="center">
+<img src="./assets/mobile/IMG_0138.PNG" width="30%"/> <img src="./assets/mobile/IMG_0139.PNG" width="30%"/>
+<img src="./assets/mobile/IMG_0137.PNG" width="30%"/> 
+</p>
