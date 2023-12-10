@@ -1,6 +1,6 @@
 
 <h3 align="center" style="border-bottom: none">
-    ✨ 🔮 OpenIM Deployment On AWS EKS 🔮 ✨ <br>
+    ✨ 🔮 OpenIM Server Deployment On AWS EKS 🔮 ✨ <br>
 <h3>
 
 ## 🐙 Project Repositories
