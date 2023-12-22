@@ -16,6 +16,8 @@
     🚢 ✨ Below is the result of the deployment ✨ 🚢 <br>
 <h3>
 
+##### 🗒️ Note: Some of links to the services below might not be working due to regular redeployment and destroying of services.
+
 ## ☁️ Aws
 ![Aws](./assets/aws/aws-1.png)
 
@@ -51,6 +53,7 @@ OpenIm Data Viewers
 ![Argocd Apps](./assets/argocd/argocd-app-data-viewers.png)
 
 ## 🕸️ Istio Kiali
+https://kiali.k8s.magiclab396.com/
 
 ![Kiali](./assets/istio/kiali-1.png)
 
