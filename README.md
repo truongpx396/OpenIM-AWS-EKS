@@ -16,7 +16,7 @@
     🚢 ✨ Below is the result of the deployment ✨ 🚢 <br>
 <h3>
 
-##### 🗒️ Note: Some of links to the services below might not be working due to regular redeployment and destroying of services.
+##### ⚠️ Note: Some of links to the services below might not be working due to regular redeployment and destroying of services.
 
 ## ☁️ Aws
 ![Aws](./assets/aws/aws-1.png)
