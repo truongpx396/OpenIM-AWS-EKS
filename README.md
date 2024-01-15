@@ -7,7 +7,7 @@
 
 - [OpenIM Terraform Infrastructure Repo](https://github.com/truongpx396/OpenIM-Terraform-Infrastructure)
 
-- [OpenIM Repo](https://github.com/truongpx396/Open-IM-Server)
+- [OpenIM Server Repo](https://github.com/truongpx396/Open-IM-Server)
 - [OpenIM K8S Deployment Repo](https://github.com/truongpx396/OpenIM-K8S-Deployment)
 - [OpenIM Mobile App Repo](https://github.com/truongpx396/OpenIM-Flutter)
 
